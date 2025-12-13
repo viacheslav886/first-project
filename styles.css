@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+body {
+    background-image: url('1377510.jpg');
+    height: 2100px;
+}
